@@ -1,0 +1,13 @@
+@root/robot/shahrour/cloud
+>>> !pip install pandas matplotlib numpy pyshbak ..
+>>> from getter_ import get_report
+##########################################
+| FileName	Found	NotFound
+|------------------------------------------
+| 2012.csv	23	19
+| 2013.csv	39	25
+| 2014.csv	25	23
+| 2015.csv	31	34
+| 2016.csv	32	41
+| 2017.csv	52	58
+$ 6 files	202	200
